@@ -1,0 +1,4 @@
+Star,System,Mass,Mass_err_up,Mass_err_down,Radius,Radius_err_up,Radius_err_down,log_g,log_g_err_up,log_g_err_down,Teff,Teff_err_up,Teff_err_down,SpType,[Fe / H],[Fe / H]_err_up,[Fe / H]_err_down,[M / H],[M / H]_err_up,[M / H]_err_down,vsini,vsini_err_up,vsin_err_down,Prot,Prot_err_up,Prot_err_down,Reference,Notes
+,,Msol,Msol,Msol,Rsol,Rsol,Rsol,cgs,cgs,cgs,K,K,K,,dex,dex,dex,dex,dex,dex,km/s,km/s,km/s,days,days,days,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,

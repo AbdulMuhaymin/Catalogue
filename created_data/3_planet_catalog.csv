@@ -1,0 +1,3 @@
+Planet,System,Discovery Method,OrbPer,OrbPer_err_up,OrbPer_err_down,Mass,Mass_err_up,Mass_err_down,Min.Mass,Min.Mass_err_up,Min.Mass_err_down,Radius,Radius_err_up,Radius_error_down,a,a_err_up,a_err_down,e,e_err_up,e_err_down,w,w_err_up,w_err_down,T_per,T_per_err_up,T_per_err_down,Mean_anomaly,Mean_anomaly_err_up,Mean_anomaly_err_down,Reference,Notes
+,,,days,days,days,Mjup,Mjup,Mjup,Mjup,Mjup,Mjup,Rjup,Rjup,Rjup,AU,AU,AU,,,,deg,deg,deg,BJD-TDB,BJD-TDB,BJD-TDB,deg,deg,deg,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

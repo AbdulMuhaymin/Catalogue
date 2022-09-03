@@ -1,0 +1,4 @@
+1. Collecting all the data from SIMBAD and Gaia and saving them into four seperate files (csv). [system, star, planet, reference]
+2. Create a html page using python to show these csv data. 
+3. Make each row of csv clickable so that it opens an overview page.
+4. Tools/Library needed: HTML5, Flask, Pandas
